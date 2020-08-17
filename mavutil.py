@@ -1906,6 +1906,12 @@ mode_mapping_acm = {
     22 : 'FLOWHOLD',
     23 : 'FOLLOW',
     24 : 'ZIGZAG',
+    25 : 'SYSTEMID',
+    26 : 'AUTOROTATE',
+    27 : 'PLANCKTRACK',
+    28 : 'PLANCKRTB',
+    29 : 'PLANCKLAND',
+    30 : 'PLANCKWINGMAN',
 }
 mode_mapping_rover = {
     0 : 'MANUAL',
